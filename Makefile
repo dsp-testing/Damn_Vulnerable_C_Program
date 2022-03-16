@@ -5,7 +5,7 @@
 #website: http://hardik05.wordpress.com
 #**************************************
  
- CC=afl-gcc  #compiler
+ CC=gcc  #compiler
  TARGET=imgRead #target file name
   
 all:
